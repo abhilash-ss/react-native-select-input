@@ -1,0 +1,10 @@
+{
+  "name": "react-native-select-input",
+  "version": "1.0.0",
+  "description": "select-input-dropdown for react native ",
+  "main": "index.js",
+  "repository": "git@github.com:itsmeAB/react-native-select-input.git",
+  "author": "itsmeAB <ss.abhilash3@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
