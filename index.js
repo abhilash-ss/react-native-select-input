@@ -1,3 +1,19 @@
-import Select from './src/Select';
+"use strict";
 
-export default Select;
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports["default"] = void 0;
+
+var _react = _interopRequireDefault(require("react"));
+
+var _reactNative = require("react-native");
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { "default": obj }; }
+
+function Select() {
+  return _react["default"].createElement(_reactNative.View, null, _react["default"].createElement(_reactNative.Text, null, "Select"));
+}
+
+var _default = Select;
+exports["default"] = _default;
