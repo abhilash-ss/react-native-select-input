@@ -1,10 +1,11 @@
 import React from 'react';
-import { View, Text } from 'react-native';
+import { View, Text, TextInput } from 'react-native';
 
 function Select() {
   return (
     <View>
       <Text>Select</Text>
+      <TextInput />
     </View>
   );
 }
